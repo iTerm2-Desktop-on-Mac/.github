@@ -1,5 +1,5 @@
 # iTerm2 For Mac — Desktop App For Mac OS
-![logo](https://img.stackshare.io/service/3000/iTerm.png)
+![logo](https://media.imgcdn.org/repo/2023/12/iterm2/657ae66a814e7-iterm2-Icon.webp)
 
 iTerm2 for Mac 🖥️ is a professional terminal emulator designed to enhance the macOS command-line experience. It combines powerful features, advanced customization options, and productivity-focused tools for developers and IT professionals. Follow the guide below to explore its capabilities.  
 
